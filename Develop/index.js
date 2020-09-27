@@ -13,12 +13,12 @@ const questions = [ {
     type: "input",
     name: "description",
     message: "Please provide a detailed description about your project."
-}
+},
 {
     type: "list",
     name: "liscenses",
     message: "What liscenses does your project have?",
-    choices: ["Apache", "MIT", "BSD3"]
+    choices: ["Apache", "MIT", "BSD3", "Perl"]
 }
 ];
 
