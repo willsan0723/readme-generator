@@ -6,5 +6,5 @@ function generateMarkdown(data) {
   
 `;
 }
-
+// badge for license and explanation
 module.exports = generateMarkdown;
