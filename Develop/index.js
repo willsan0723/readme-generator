@@ -40,7 +40,7 @@ const questions = [ {
     type: "list",
     name: "license",
     message: "What license does your project have?",
-    choices: ["Apache", "MIT", "BSD3", "Perl"]
+    choices: ["Apache", "BSD3", "MIT", "ISC"]
 },
 {   type: "input",
     name: "contributing",
@@ -49,7 +49,7 @@ const questions = [ {
 {
     type: "input",
     name: "tests",
-    message: "Go the extra mile and write tests for your application. Then provide examples on how to run them:"
+    message: "Write any tests for your application here, then provide examples on how to run them:"
 },
 {
     type: "input",

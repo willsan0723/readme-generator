@@ -1,4 +1,4 @@
-# n
+# n [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   ## Description
   n
   
@@ -17,7 +17,7 @@
   n
 
   ## License
-  This project is covered under a Apache license.
+  This project is covered under the Apache license.
   
   ## Contributing
   n
@@ -26,6 +26,6 @@
   n
   
   ## Questions
-  n
-  https://github.com/n/
+  GitHub User Name: n
+  [GitHub Repository](https://github.com/n/)
   If you have any additional questions you can reach me at n
