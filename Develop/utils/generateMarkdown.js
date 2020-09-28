@@ -44,12 +44,11 @@ function generateMarkdown(data) {
   
   ## Questions
   GitHub User Name: ${data.user}
+
   [GitHub Repository](https://github.com/${data.user}/)
+
   If you have any additional questions you can reach me at ${data.mail}
 `;
 }
-// function for badges for license
-// translate each and export value as a variable to be added near top of readme
-
 
 module.exports = generateMarkdown;
